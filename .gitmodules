@@ -1,0 +1,3 @@
+[submodule "LaravelBlog"]
+	path = LaravelBlog
+	url = https://github.com/DeezIsAme/.gitsubmodules.git
